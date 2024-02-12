@@ -1,0 +1,1 @@
+ While logic can be used to encode rules for decision-making, capturing the complexity of human expertise in a set of rules can be extremely challenging. Human decision-making often involves nuanced reasoning, context, and intuition, aspects that are difficult to express purely through logical rules.
